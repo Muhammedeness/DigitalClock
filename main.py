@@ -4,7 +4,7 @@ import time
 from tkinter import Label,Tk
 
 app_window=Tk()
-app_window.title("Dijital Saat")
+app_window.title("Digital Clock")
 app_window.geometry("400x150")
 app_window.resizable(1,1)
 
